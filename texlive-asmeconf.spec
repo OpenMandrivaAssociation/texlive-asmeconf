@@ -1,6 +1,6 @@
 Name:		texlive-asmeconf
-Version:	64435
-Release:	2
+Version:	68593
+Release:	1
 Summary:	A LaTeX template for ASME conference papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asmeconf
