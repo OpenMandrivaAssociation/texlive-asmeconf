@@ -1,5 +1,5 @@
 Name:		texlive-asmeconf
-Version:	69742
+Version:	71956
 Release:	1
 Summary:	A LaTeX template for ASME conference papers
 Group:		Publishing
