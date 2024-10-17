@@ -3,7 +3,7 @@ Version:	71956
 Release:	1
 Summary:	A LaTeX template for ASME conference papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asmeconf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/asmeconf
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asmeconf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asmeconf.doc.r%{version}.tar.xz
